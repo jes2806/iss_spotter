@@ -41,3 +41,4 @@ const { /* fetchMyIP, fetchCoordsByIP, fetchISSFlyOverTimes, */ nextISSTimesForM
     printPassTimes(flyTimes);
   });
 // });
+module.exports = { printPassTimes };
